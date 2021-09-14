@@ -1,6 +1,6 @@
 # scrollTo
 
-This repository contains of a simple function called scrollDocumentTo, which is used to scroll to a given offset.
+This repository contains a simple function called scrollDocumentTo, which is used to scroll to a given offset.
 
 Usage: 
 scrollDocumentTo(value, time, callback);
